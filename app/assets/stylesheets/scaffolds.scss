@@ -71,3 +71,8 @@ div {
     list-style: square;
   }
 }
+
+.container {
+  min-height: 100%;
+  position: relative;
+}
